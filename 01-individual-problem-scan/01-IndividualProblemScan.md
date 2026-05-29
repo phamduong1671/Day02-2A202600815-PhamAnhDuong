@@ -1,3 +1,2 @@
 |#	|Lăng kính	|Problem quan sát được	|Ai đang đau?	|Dấu hiệu thật|
 |1   |Pain từ người khác   |PM tự commit deadline với stakeholder trước khi align với engineering  |Team member    |Deadline trượt liên tục, dev overtime cuối sprint, scope bị cắt phút chót, estimate bị inflate|
-|2  |
