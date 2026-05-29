@@ -1,0 +1,1 @@
+#	|Lăng kính	|Problem |quan sát được	|Ai đang đau?	|Dấu hiệu thật
